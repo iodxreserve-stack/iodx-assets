@@ -1,0 +1,10 @@
+{
+  "name": "IODX",
+  "symbol": "IODX",
+  "type": "ERC20",
+  "decimals": 18,
+  "website": "https://IODX-reserve.com",
+  "explorer": "https://sepolia.etherscan.io/token/0x8a85F82D980aDc6DC068c4945d4AdaeaE8cd64c1",
+  "status": "active",
+  "id": "0x8a85F82D980aDc6DC068c4945d4AdaeaE8cd64c1"
+}
